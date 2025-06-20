@@ -23,7 +23,7 @@ I am a passionate and dedicated student with a strong focus on software developm
 
 ### Social Media
 
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
     <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" title="Facebook"/>
   </a>
@@ -42,7 +42,7 @@ I am a passionate and dedicated student with a strong focus on software developm
 
 ### GitHub Language Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/shaon-juniv">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=default" alt="Top Languages"/>
   </a>
