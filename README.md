@@ -44,6 +44,6 @@ I am a passionate and dedicated student with a strong focus on software developm
 
 <p align="center">
   <a href="https://github.com/shaon-juniv">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaon-juniv&layout=compact&theme=default" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=default" alt="Top Languages"/>
   </a>
 </p>
