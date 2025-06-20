@@ -48,13 +48,3 @@ I am a passionate and dedicated student with a strong focus on software developm
   </a>
 </p>
 
----
-
-### Featured Project
-
-<p align="center">
-  <a href="https://github.com/Md-Shaon-Khan/Student-Attendance-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Shaon-Khan&repo=Student-Attendance-System&theme=default" alt="Top Repo"/>
-  </a>
-</p>
-
