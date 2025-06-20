@@ -14,3 +14,7 @@ I have a strong interest in web development. I’ve completed my work on the fro
 Alongside development, I am also focusing on problem solving and competitive programming, working to improve my skills in data structures and algorithms. I am trying to maintain a balance between both programming and development.
 
 At the same time, I stay focused on my academic studies, aiming to build a strong foundation in computer science.
+
+
+Socials:
+[Facebook]((https://www.facebook.com/sa.ona.khana.803112)) | [Instagram]((https://www.instagram.com/___shaon__/)) | [LinkedIn](https://www.linkedin.com/in/shaon-khan-01003433a/)
