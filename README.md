@@ -1,32 +1,38 @@
-About Me
-Hi, I’m Shaon, a 2nd-year undergraduate student at the Institute of Information Technology (IIT), Jahangirnagar University (JU).
+<h2 align="center">Shaon</h2>
+<p align="center">
+  2nd Year Undergraduate | Institute of Information Technology (IIT), Jahangirnagar University  
+</p>
 
-I am highly passionate about creating new and meaningful software projects. I have already worked on several projects, including:
+---
 
-UniFix – A platform designed to solve various university-related issues
+### About Me
 
-Student Attendance System – A system built to manage and track student attendance efficiently
+I am a passionate and dedicated student with a strong focus on software development and computer science fundamentals. I enjoy building meaningful projects and continuously expanding my technical skills through real-world applications and problem solving.
 
-I have also completed several frontend projects that are practical, regularly usable, and aim to solve real-life problems
+#### Projects
+- **UniFix** – A platform designed to address and streamline university-related issues.
+- **Student Attendance System** – A system built to manage and track student attendance effectively.
+- Completed multiple frontend projects that are practical, regularly usable, and designed to solve real-life problems.
 
-I have a strong interest in web development. I’ve completed my work on the frontend, and now I am actively trying to learn and build projects using backend technologies.
+#### Interests
+- Web Development: Completed frontend development and currently learning backend technologies.
+- Problem Solving: Actively improving skills in data structures and algorithms through competitive programming.
+- Academics: Committed to building a solid foundation in computer science through focused academic study.
 
-Alongside development, I am also focusing on problem solving and competitive programming, working to improve my skills in data structures and algorithms. I am trying to maintain a balance between both programming and development.
+---
 
-At the same time, I stay focused on my academic studies, aiming to build a strong foundation in computer science.
+### Social Media
 
-
-Socials:
 <p align="center">
   <a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" title="Facebook"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/___shaon__/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
 </p>
