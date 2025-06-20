@@ -1,16 +1,16 @@
-## Hi there 👋
+About Me
+Hi, I’m Shaon, a 2nd-year undergraduate student at the Institute of Information Technology (IIT), Jahangirnagar University (JU).
 
-<!--
-**Md-Shaon-Khan/Md-Shaon-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am highly passionate about creating new and meaningful software projects. I have already worked on several projects, including:
 
-Here are some ideas to get you started:
+UniFix – A platform designed to solve various university-related issues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student Attendance System – A system built to manage and track student attendance efficiently
+
+I have also completed several frontend projects that are practical, regularly usable, and aim to solve real-life problems
+
+I have a strong interest in web development. I’ve completed my work on the frontend, and now I am actively trying to learn and build projects using backend technologies.
+
+Alongside development, I am also focusing on problem solving and competitive programming, working to improve my skills in data structures and algorithms. I am trying to maintain a balance between both programming and development.
+
+At the same time, I stay focused on my academic studies, aiming to build a strong foundation in computer science.
