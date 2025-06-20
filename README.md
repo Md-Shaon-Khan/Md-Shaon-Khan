@@ -36,3 +36,14 @@ I am a passionate and dedicated student with a strong focus on software developm
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
 </p>
+
+
+---
+
+### GitHub Language Stats
+
+<p align="center">
+  <a href="https://github.com/shaon-juniv">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaon-juniv&layout=compact&theme=default" alt="Top Languages"/>
+  </a>
+</p>
