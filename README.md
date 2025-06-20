@@ -17,4 +17,4 @@ At the same time, I stay focused on my academic studies, aiming to build a stron
 
 
 Socials:
-[Facebook]((https://www.facebook.com/sa.ona.khana.803112)) | [Instagram]((https://www.instagram.com/___shaon__/)) | [LinkedIn](https://www.linkedin.com/in/shaon-khan-01003433a/)
+[Facebook](https://www.facebook.com/sa.ona.khana.803112) | [Instagram](https://www.instagram.com/___shaon__/) | [LinkedIn](https://www.linkedin.com/in/shaon-khan-01003433a/)
