@@ -17,14 +17,16 @@ At the same time, I stay focused on my academic studies, aiming to build a stron
 
 
 Socials:
-[Facebook](https://www.facebook.com/sa.ona.khana.803112) | [Instagram](https://www.instagram.com/___shaon__/) | [LinkedIn](https://www.linkedin.com/in/shaon-khan-01003433a/)<a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/___shaon__/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
-</a>
+<p align="center">
+  <a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/___shaon__/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
