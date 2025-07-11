@@ -19,24 +19,6 @@ I am a passionate and dedicated student with a strong focus on software developm
 - Problem Solving: Actively improving skills in data structures and algorithms through competitive programming.
 - Academics: Committed to building a solid foundation in computer science through focused academic study.
 
----
-
-### Social Media
-
-<p align="left">
-  <a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" title="Facebook"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/___shaon__/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-</p>
-
 
 ---
 
@@ -61,3 +43,25 @@ I am a passionate and dedicated student with a strong focus on software developm
   </a>
 </p>
 
+
+---
+
+### Social Media
+
+<p align="left">
+  <a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" title="Facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/___shaon__/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/_shaon_khan" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/1DA1F2/twitterx--v2.png" alt="X (Twitter)" title="X (Twitter)"/>
+  </a>
+</p>
