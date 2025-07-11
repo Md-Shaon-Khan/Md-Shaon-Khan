@@ -46,6 +46,19 @@ I am a passionate and dedicated student with a strong focus on software developm
 
 ---
 
+
+## 📊 GitHub Stats
+
+![Shaon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Shaon-Khan&theme=tokyonight)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Md-Shaon-Khan&style=flat-square&color=blue)
+
+
+---
+
+
 ### Social Media
 
 <p align="left">
