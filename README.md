@@ -7,26 +7,26 @@
 
 <h3>About Me</h3>
 <p>
-  I am a passionate and dedicated computer science student with a strong foundation in software development and a deep interest in solving real-world problems. My primary focus lies in building scalable applications, sharpening algorithmic thinking, and enhancing my backend development skills. I continuously strive to apply classroom knowledge to practical and impactful projects.
+  I am a passionate and curious student who enjoys exploring different areas of computer science. I like learning how software works and building simple projects that can help people. I always try to learn new things and improve my skills step by step. Right now, I am exploring both software development and problem-solving through different learning platforms.
 </p>
 
 <h3>Projects</h3>
 <ul>
-  <li><strong>UniFix</strong> – A platform designed to identify, manage, and resolve university-related issues efficiently.</li>
-  <li><strong>Student Attendance System</strong> – A system built to digitally track and manage student attendance with ease.</li>
-  <li>Multiple frontend-focused applications built to solve day-to-day problems using responsive and accessible design.</li>
+  <li><strong>UniFix</strong> – A platform created to report and manage university-related issues in an easy and organized way.</li>
+  <li><strong>Student Attendance System</strong> – A basic system designed to track student attendance digitally.</li>
+  <li>Other small web projects that solve everyday problems using HTML, CSS, and JavaScript.</li>
 </ul>
 
-<h3>Technical Interests</h3>
+<h3>Learning Areas</h3>
 <ul>
-  <li><strong>Web Development:</strong> Proficient in frontend technologies; currently deepening backend development skills.</li>
-  <li><strong>Problem Solving:</strong> Regular practice on competitive platforms focusing on data structures and algorithms.</li>
-  <li><strong>Academic Growth:</strong> Dedicated to mastering core computer science principles through rigorous study.</li>
+  <li><strong>Web Development:</strong> I enjoy frontend design and I’m learning backend development gradually to build full web applications.</li>
+  <li><strong>Problem Solving:</strong> I try to stay connected with coding problems and challenges to improve my thinking and logic.</li>
+  <li><strong>Academic Focus:</strong> I’m building my understanding of computer science topics through regular study and practice.</li>
 </ul>
 
 <hr/>
 
-<h3>Programming Languages</h3>
+<h3>Languages I Use</h3>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
