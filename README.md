@@ -72,3 +72,16 @@
     <img src="https://img.icons8.com/ios-filled/48/1DA1F2/twitterx--v2.png" alt="X (Twitter)" title="X (Twitter)"/>
   </a>
 </p>
+
+
+  <a href="https://x.com/_shaon_khan" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/1DA1F2/twitterx--v2.png" alt="X (Twitter)" title="X (Twitter)"/>
+  </a>
+</p>
+
+<hr/>
+
+<h3>Profile Views</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Shaon-Khan" alt="Profile Views" />
+</p>
