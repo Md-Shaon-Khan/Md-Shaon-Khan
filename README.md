@@ -73,11 +73,3 @@
   </a>
 </p>
 
-
-
-<hr/>
-
-<h3>Profile Views</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Shaon-Khan" alt="Profile Views" />
-</p>
