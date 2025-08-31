@@ -19,9 +19,14 @@
 
 <h3>Learning Areas</h3>
 <ul>
-  <li><strong>Web Development:</strong> I enjoy frontend design and I’m learning backend development gradually to build full web applications.</li>
-  <li><strong>Problem Solving:</strong> I try to stay connected with coding problems and challenges to improve my thinking and logic.</li>
-  <li><strong>Academic Focus:</strong> I’m building my understanding of computer science topics through regular study and practice.</li>
+  <li><strong>UniFix</strong> – A platform created to report and manage university-related issues in an easy and organized way.</li>
+  <li><strong>Student Attendance System</strong> – A basic system designed to track student attendance digitally.</li>
+ 
+  
+  <!-- ===== Recent Projects ===== -->
+  <li><strong>IIT Academic Website</strong> – A complete academic website for IIT students where they can access research papers, project archives, past questions, academic calendars, and subject overviews.</li>
+  <li><strong>LockGuard</strong> – A security-focused project designed to provide advanced protection and monitoring features for safeguarding personal or institutional digital assets.</li>
+   <li>Other small web projects that solve everyday problems using HTML, CSS, and JavaScript.</li>
 </ul>
 
 <hr/>
