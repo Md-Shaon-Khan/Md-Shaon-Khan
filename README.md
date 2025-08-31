@@ -14,13 +14,6 @@
 <ul>
   <li><strong>UniFix</strong> – A platform created to report and manage university-related issues in an easy and organized way.</li>
   <li><strong>Student Attendance System</strong> – A basic system designed to track student attendance digitally.</li>
-  <li>Other small web projects that solve everyday problems using HTML, CSS, and JavaScript.</li>
-</ul>
-
-<h3>Learning Areas</h3>
-<ul>
-  <li><strong>UniFix</strong> – A platform created to report and manage university-related issues in an easy and organized way.</li>
-  <li><strong>Student Attendance System</strong> – A basic system designed to track student attendance digitally.</li>
  
   
   <!-- ===== Recent Projects ===== -->
@@ -28,6 +21,9 @@
   <li><strong>LockGuard</strong> – A security-focused project designed to provide advanced protection and monitoring features for safeguarding personal or institutional digital assets.</li>
    <li>Other small web projects that solve everyday problems using HTML, CSS, and JavaScript.</li>
 </ul>
+
+<h3>Learning Areas</h3>
+
 
 <hr/>
 
