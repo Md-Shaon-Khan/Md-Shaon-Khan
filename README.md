@@ -32,6 +32,15 @@
   Currently, I am trying to practice regularly on platforms like <strong>Codeforces</strong> and <strong>LeetCode</strong>, having solved around <strong>350 problems</strong> to date.
 </p>
 
+<h3>Learning Goals</h3>
+<hr/>
+<ul>
+  <li>Master advanced <strong>Data Structures & Algorithms</strong> for problem-solving and competitive programming</li>
+  <li>Build <strong>full-stack web applications</strong> using modern frameworks</li>
+  <li>Contribute to <strong>open-source projects</strong> on GitHub</li>
+  <li>Explore <strong>machine learning & AI</strong> applications</li>
+  <li>Improve coding efficiency and best practices</li>
+</ul>
 
 <h3>Languages I Use</h3>
 <p>
@@ -58,6 +67,16 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=default" alt="GitHub Stats"/>
   </a>
 </p>
+
+<h3>GitHub Activity</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Shaon-Khan&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Md-Shaon-Khan&theme=default" alt="GitHub Activity Graph"/>
+</p>
+
 
 <hr/>
 
