@@ -68,14 +68,6 @@
   </a>
 </p>
 
-<h3>GitHub Activity</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Shaon-Khan&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Md-Shaon-Khan&theme=default" alt="GitHub Activity Graph"/>
-</p>
 
 
 <hr/>
