@@ -23,9 +23,15 @@
 </ul>
 
 <h3>Learning Areas</h3>
-
-
 <hr/>
+
+<p>
+  I am focused on <strong>academic-based learning</strong>, establishing a solid foundation in core computer science concepts.  
+  To translate theory into practice, I actively develop <strong>projects</strong> that enhance understanding and application.  
+  I am dedicated to mastering <strong>Data Structures and Algorithms</strong> from the fundamentals and continuously improving my problem-solving skills.  
+  Currently, I am trying to practice regularly on platforms like <strong>Codeforces</strong> and <strong>LeetCode</strong>, having solved around <strong>350 problems</strong> to date.
+</p>
+
 
 <h3>Languages I Use</h3>
 <p>
