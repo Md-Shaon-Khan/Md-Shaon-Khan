@@ -36,7 +36,6 @@
 <hr/>
 <ul>
   <li>Master advanced <strong>Data Structures & Algorithms</strong> for problem-solving and competitive programming</li>
-  <li>Build <strong>full-stack web applications</strong> using modern frameworks</li>
   <li>Contribute to <strong>open-source projects</strong> on GitHub</li>
   <li>Explore <strong>machine learning & AI</strong> applications</li>
   <li>Improve coding efficiency and best practices</li>
