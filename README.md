@@ -98,6 +98,38 @@
 </p>
 -->
 
+<hr/>
+
+<h3>GitHub Stats & Activity</h3>
+
+<!-- Top Languages -->
+<p>
+  <a href="https://github.com/shaon-juniv" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=default" alt="Top Languages Used"/>
+  </a>
+</p>
+
+<!-- GitHub General Stats -->
+<p>
+  <a href="https://github.com/shaon-juniv" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=default" alt="GitHub Stats"/>
+  </a>
+</p>
+
+<!-- GitHub Streak -->
+<p>
+  <a href="https://github.com/shaon-juniv" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Shaon-Khan&theme=default" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<!-- Contribution Calendar -->
+<p>
+  <a href="https://github.com/shaon-juniv" target="_blank">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Md-Shaon-Khan&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
+  </a>
+</p>
+
 
 <hr/>
 
