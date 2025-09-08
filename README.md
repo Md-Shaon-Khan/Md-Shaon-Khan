@@ -101,7 +101,7 @@
 <h3>Top Repositories</h3>
 <p>
   <a href="https://github.com/shaon-juniv/Repo1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaon-juniv&repo=Repo1&theme=default" alt="Repo1"/>
+    <img src="https://github.com/Md-Shaon-Khan/IIT-Academic-Website-Design" alt="Repo1"/>
   </a>
   <a href="https://github.com/shaon-juniv/Repo2" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaon-juniv&repo=Repo2&theme=default" alt="Repo2"/>
