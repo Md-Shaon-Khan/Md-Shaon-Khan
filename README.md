@@ -42,6 +42,7 @@
 </ul>
 
 <h3>Languages I Use</h3>
+<hr/>
 <!-- <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
