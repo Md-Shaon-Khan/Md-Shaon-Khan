@@ -81,7 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-
+<!--
 <hr/>
 
 <h3>GitHub Language Statistics</h3>
@@ -96,7 +96,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=default" alt="GitHub Stats"/>
   </a>
 </p>
-
+-->
 
 
 <hr/>
