@@ -81,7 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-<!--
+
 <hr/>
 
 <h3>GitHub Language Statistics</h3>
@@ -96,39 +96,21 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=default" alt="GitHub Stats"/>
   </a>
 </p>
--->
 
 <hr/>
-
-<h3>GitHub Stats & Activity</h3>
-
-<!-- Top Languages -->
+<h3>Top Repositories</h3>
 <p>
-  <a href="https://github.com/shaon-juniv" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=default" alt="Top Languages Used"/>
+  <a href="https://github.com/shaon-juniv/Repo1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaon-juniv&repo=Repo1&theme=default" alt="Repo1"/>
+  </a>
+  <a href="https://github.com/shaon-juniv/Repo2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaon-juniv&repo=Repo2&theme=default" alt="Repo2"/>
+  </a>
+  <a href="https://github.com/shaon-juniv/Repo3" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaon-juniv&repo=Repo3&theme=default" alt="Repo3"/>
   </a>
 </p>
 
-<!-- GitHub General Stats -->
-<p>
-  <a href="https://github.com/shaon-juniv" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=default" alt="GitHub Stats"/>
-  </a>
-</p>
-
-<!-- GitHub Streak -->
-<p>
-  <a href="https://github.com/shaon-juniv" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Shaon-Khan&theme=default" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<!-- Contribution Calendar -->
-<p>
-  <a href="https://github.com/shaon-juniv" target="_blank">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Md-Shaon-Khan&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
-  </a>
-</p>
 
 
 <hr/>
