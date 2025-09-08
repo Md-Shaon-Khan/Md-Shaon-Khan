@@ -103,9 +103,15 @@
   <a href="https://github.com/Md-Shaon-Khan/IIT-Academic-Website-Design" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Shaon-Khan&repo=IIT-Academic-Website-Design&theme=default" alt="IIT Academic Website"/>
   </a>
+</p>
+
+<p>
   <a href="https://github.com/Md-Shaon-Khan/Java_NetBeans_Project" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Shaon-Khan&repo=Java_NetBeans_Project&theme=default" alt="Java NetBeans Project"/>
   </a>
+</p>
+
+<p>
   <a href="https://github.com/Md-Shaon-Khan/CodeForces_Problem" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Shaon-Khan&repo=CodeForces_Problem&theme=default" alt="CodeForces Problem"/>
   </a>
