@@ -100,14 +100,14 @@
 <hr/>
 <h3>Top Repositories</h3>
 <p>
-  <a href="https://github.com/shaon-juniv/Repo1" target="_blank">
-    <img src="https://github.com/Md-Shaon-Khan/IIT-Academic-Website-Design" alt="Repo1"/>
+  <a href="https://github.com/Md-Shaon-Khan/IIT-Academic-Website-Design" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Shaon-Khan&repo=IIT-Academic-Website-Design&theme=default" alt="IIT Academic Website"/>
   </a>
-  <a href="https://github.com/shaon-juniv/Repo2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaon-juniv&repo=Repo2&theme=default" alt="Repo2"/>
+  <a href="https://github.com/Md-Shaon-Khan/Java_NetBeans_Project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Shaon-Khan&repo=Java_NetBeans_Project&theme=default" alt="Java NetBeans Project"/>
   </a>
-  <a href="https://github.com/shaon-juniv/Repo3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaon-juniv&repo=Repo3&theme=default" alt="Repo3"/>
+  <a href="https://github.com/Md-Shaon-Khan/CodeForces_Problem" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Shaon-Khan&repo=CodeForces_Problem&theme=default" alt="CodeForces Problem"/>
   </a>
 </p>
 
