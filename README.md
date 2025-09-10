@@ -123,5 +123,8 @@
   <a href="https://x.com/_shaon_khan" target="_blank">
     <img src="https://img.icons8.com/ios-filled/48/1DA1F2/twitterx--v2.png" alt="X (Twitter)" title="X (Twitter)"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shaon.iit52@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" title="Email"/>
+  </a>
 </p>
-
