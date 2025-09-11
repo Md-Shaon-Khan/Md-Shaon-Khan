@@ -91,8 +91,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/Md-Shaon-Khan/Java_NetBeans_Project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Shaon-Khan&repo=Java_NetBeans_Project&theme=default" alt="Java NetBeans Project"/>
+  <a href="https://github.com/Md-Shaon-Khan/UniFix" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Shaon-Khan&repo=UniFix&theme=default" alt="UniFix"/>
   </a>
 </p>
 
