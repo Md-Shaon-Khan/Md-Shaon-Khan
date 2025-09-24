@@ -57,7 +57,7 @@
 <h3>Libraries I Use</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://techicons.dev/icons/scikitlearn.svg" alt="Scikit-learn" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/scipy-tiz942ful2htn7n0wfynrd.png/scipy-yum4wb7cq27glatjk78aj.png?_a=DATAg1XyZAA0" alt="SciPy" width="40" height="40"/>
