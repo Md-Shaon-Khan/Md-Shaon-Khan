@@ -43,10 +43,6 @@
 
 <h3>Languages I Use</h3>
 <hr/>
-from IPython.display import display, HTML
-
-# HTML code for skill icons
-html_code = '''
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> &nbsp;&nbsp;
@@ -58,10 +54,6 @@ html_code = '''
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
-'''
-
-# Display the HTML
-display(HTML(html_code))
 
 
 
