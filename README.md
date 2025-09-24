@@ -59,11 +59,12 @@
 <h3>Libraries I Use</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEX/////9er/uHH/mTP/4cL/oEH/zJn/wYP/vn3/yZP/2rX/vHn/7Nn/mzf/0aROp9N1ut2gz+fb7fb/smUzmcxhsNe53O3/+fOx2OyUyeT/r2DL5fL/pUtBoND/p1Cdzua3sbXRAAAAl0lEQVR4AYXSRQKEUAwDUCC4O4xy/1PiLmm2fV9b5Tmqhj7Pdd0ABSZAgQUObHDggAMXHKiGADxw4EMAngDUQAAhjiCK4iTdg+wE8iFFudar4A70ZNlFxxksqc9XOIP8tbTpHiziTUD+6cGXgagHBgN5/1pQEEvgJx2Rp/ySwyX+HCT8H4a/siQQctAoOgf13TycuqEdQQfEshl/lPRg7AAAAABJRU5ErkJggg==" alt="Scikit-learn" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" width="40" height="40"/>
 </p>
+
 
 
 
