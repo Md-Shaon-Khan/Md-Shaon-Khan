@@ -66,8 +66,8 @@ I have experience developing web-based and academic projects that solve practica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/dmlc/xgboost/master/docs/logo.png" alt="XGBoost" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/fig/lightgbm_logo.png" alt="LightGBM" width="40" height="40"/>
+  <img src="[https://raw.githubusercontent.com/dmlc/xgboost/master/docs/logo.png](https://xgboost.ai/images/logo/xgboost-logo.png)" alt="XGBoost" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="[https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/fig/lightgbm_logo.png](https://lightgbm.readthedocs.io/en/stable/_static/LightGBM_logo_grey_text.svg)" alt="LightGBM" width="40" height="40"/>
 </p>
 
 <h3>Tools / Environments I Use</h3>
