@@ -7,7 +7,9 @@
 
 <h3>About Me</h3>
 <p>
-  I am a passionate and curious student who enjoys exploring different areas of computer science. I like learning how software works and building simple projects that can help people. I always try to learn new things and improve my skills step by step. Right now, I am exploring both software development and problem-solving through different learning platforms.
+  I am a highly motivated 2nd-year undergraduate at the Institute of Information Technology (IIT), Jahangirnagar University, passionate about exploring computer science from both theoretical and practical perspectives. I enjoy understanding how software works, building impactful projects, and applying algorithmic problem-solving in real-world scenarios. Currently, I am strengthening my foundation in Data Structures & Algorithms, software development, and machine learning, while consistently improving my problem-solving skills through platforms like Codeforces and LeetCode.
+
+I have experience developing web-based and academic projects that solve practical problems, and I aim to bridge my theoretical knowledge with hands-on experience.
 </p>
 
 <h3>Projects</h3>
@@ -38,9 +40,10 @@
 <h3>Learning Goals</h3>
 <ul>
   <li>Master advanced <strong>Data Structures & Algorithms</strong> for problem-solving and competitive programming</li>
+  <li>Explore and apply <strong>Machine Learning & AI</strong> techniques through projects</li>
+  <li>Integrate <strong>academic knowledge</strong> with <strong>real-time project</strong> experience</li>
   <li>Contribute to <strong>open-source projects</strong> on GitHub</li>
-  <li>Explore <strong>machine learning & AI</strong> applications</li>
-  <li>Improve coding efficiency and best practices</li>
+  <li>Improve <strong>coding efficiency and best practices</strong></li>
 </ul>
 
 
@@ -62,17 +65,19 @@
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/dmlc/xgboost/master/docs/logo.png" alt="XGBoost" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/fig/lightgbm_logo.png" alt="LightGBM" width="40" height="40"/>
 </p>
-
-
-
 
 <h3>Tools / Environments I Use</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 
