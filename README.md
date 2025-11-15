@@ -147,3 +147,39 @@ I have experience developing web-based and academic projects that solve practica
     <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" title="Email"/>
   </a>
 </p>
+
+
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Md-Shaon-Khan&theme=default" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid"/>
+</p>
+
+<hr/>
+
+<h3>Connect with Me</h3>
+<p>
+  <a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" title="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/___shaon__/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/_shaon_khan" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/1DA1F2/twitterx--v2.png" alt="X (Twitter)" title="X (Twitter)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shaon.iit52@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" title="Email"/>
+  </a>
+</p>
