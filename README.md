@@ -18,9 +18,9 @@
 | :--- | :--- | :--- |
 | <a href="https://github.com/Md-Shaon-Khan/IoT-Health-Monitoring-and-Disease-Prediction-with-ML-Drug-Treatment-Recommendations"><strong>IoT Health Monitoring & Disease Prediction</strong></a> | A system utilizing IoT sensors to collect real-time body data combined with user-reported symptoms. A Machine Learning model predicts possible diseases and provides drug/treatment suggestions to help users make informed decisions. | <code>Python</code> <code>ML/DL</code> <code>IoT</code> |
 | <a href="https://github.com/Md-Shaon-Khan/UniFix-2.0"><strong>UniFix 2.0</strong></a> | An advanced, full-stack university complaint management system. Features real-time status tracking via Socket.io, role-based dashboards, and logic-based categorization algorithms for efficient administrative management. | <code>React</code> <code>Node.js</code> <code>MySQL</code> |
-| <a href="https://github.com/Md-Shaon-Khan/LockGuard-Dual-Factor-Smart-Door-Security-with-Alerts"><strong>LockGuard</strong></a> | A security-focused application providing advanced protection and monitoring features to safeguard personal and institutional digital assets. | <code>Java</code> <code>Android</code> |
+| <a href="https://github.com/Md-Shaon-Khan/LockGuard-Dual-Factor-Smart-Door-Security-with-Alerts"><strong>LockGuard</strong></a> | A security-focused application providing advanced protection and monitoring features to safeguard personal and institutional digital assets. | <code>C++</code> <code>Android</code> |
 | <a href="https://github.com/Md-Shaon-Khan/IIT-Academic-Website-Design"><strong>IIT Academic Website</strong></a> | A comprehensive academic portal for IIT students providing access to research papers, project archives, past examination papers, academic calendars, and subject overviews. | <code>HTML/CSS</code> <code>JS</code> <code>PHP</code> |
-| <strong>Student Attendance System</strong> | A digital solution designed to track and manage student attendance records efficiently. | <code>C++</code> |
+| <a href="https://github.com/Md-Shaon-Khan/Student_Attendance_System"><strong>Student Attendance System</strong></a> | A digital solution designed to track and manage student attendance records efficiently. | <code>Java</code> |
 
 
 
