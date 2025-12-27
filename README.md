@@ -22,12 +22,7 @@
 | <a href="https://github.com/Md-Shaon-Khan/IIT-Academic-Website-Design"><strong>IIT Academic Website</strong></a> | A comprehensive academic portal for IIT students providing access to research papers, project archives, past examination papers, academic calendars, and subject overviews. | <code>HTML/CSS</code> <code>JS</code> <code>PHP</code> |
 | <strong>Student Attendance System</strong> | A digital solution designed to track and manage student attendance records efficiently. | <code>C++</code> |
 
-<hr/>
 
-<h3>Learning Areas</h3>
-<p>
-  My current focus is on academic-based learning to establish a robust foundation in core computer science concepts. To translate theory into practice, I actively develop projects that enhance my understanding of software engineering principles. I am dedicated to mastering Data Structures and Algorithms and continuously improving my problem-solving skills. To date, I have solved approximately 350 problems on competitive programming platforms such as Codeforces and LeetCode.
-</p>
 
 <hr/>
 
@@ -84,17 +79,6 @@
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/shaon-juniv" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=default" alt="GitHub Stats"/>
-  </a>
-</p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid"/>
-</p>
 
 <hr/>
 
