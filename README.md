@@ -1,4 +1,4 @@
-<h2 align="center">Md. Shaon Khan</h2>
+[<h2 align="center">Md. Shaon Khan</h2>
 <p align="center">
   2nd Year Undergraduate | Institute of Information Technology (IIT), Jahangirnagar University
 </p>
@@ -77,3 +77,4 @@
     <img src="https://img.icons8.com/ios-filled/48/1DA1F2/twitterx--v2.png" alt="X" width="35"/>
   </a>
 </div>
+](https://github.com/Md-Shaon-Khan/LockGuard-Dual-Factor-Smart-Door-Security-with-Alerts)
