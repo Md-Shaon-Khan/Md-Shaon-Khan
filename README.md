@@ -1,6 +1,6 @@
 <h2 align="center">Md. Shaon Khan</h2>
 <p align="center">
-  2nd Year Undergraduate | Institute of Information Technology (IIT), Jahangirnagar University
+  3rd Year Undergraduate | Institute of Information Technology (IIT), Jahangirnagar University
 </p>
 
 <hr/>
