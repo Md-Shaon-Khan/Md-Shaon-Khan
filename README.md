@@ -72,13 +72,10 @@
 
 <hr/>
 
-<h3>GitHub Statistics</h3>
-<p>
-  <a href="https://github.com/shaon-juniv" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=default" alt="Top Languages Used"/>
-  </a>
+<h3 align="center">GitHub Statistics</h3>
+<p align="center">
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=tokyonight" alt="Top Languages Used" />
 </p>
-
 
 <hr/>
 
@@ -88,17 +85,13 @@
     <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" title="Facebook"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/___shaon__/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram"/>
-  </a>
+
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/_shaon_khan" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/1DA1F2/twitterx--v2.png" alt="X (Twitter)" title="X (Twitter)"/>
-  </a>
+
   &nbsp;&nbsp;
   <a href="mailto:shaon.iit52@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" title="Email"/>
