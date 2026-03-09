@@ -80,20 +80,14 @@
 <hr/>
 
 <h3>Connect with Me</h3>
-<p>
+<p align="center">
   <a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" title="Facebook"/>
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-
-  &nbsp;&nbsp;
   <a href="mailto:shaon.iit52@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" title="Email"/>
+    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
