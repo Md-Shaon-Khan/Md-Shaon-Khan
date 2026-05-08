@@ -143,7 +143,7 @@ I actively build independent projects combining signal processing, deep learning
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
+      <a href="https://www.linkedin.com/in/md-shaon-khan-01003433a/" target="_blank">
         <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40"/><br/>
         LinkedIn
       </a>
