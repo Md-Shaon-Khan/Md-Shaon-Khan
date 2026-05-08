@@ -1,148 +1,152 @@
-<h1 align="center">Hi 👋, I'm Md. Shaon Khan</h1>
-<h3 align="center">Aspiring ML Engineer | IoT & Full-Stack Developer | Competitive Programmer</h3>
+<h1 align="center">Md. Shaon Khan</h1>
+<h3 align="center">Undergraduate Student | AI / ML / DL Enthusiast | Competitive Programmer</h3>
 <h4 align="center">
-  3rd Year Undergraduate · Institute of Information Technology (IIT) · Jahangirnagar University
+  3rd Year &nbsp;·&nbsp; B.Sc. in Information Technology &nbsp;·&nbsp; Institute of Information Technology (IIT) &nbsp;·&nbsp; Jahangirnagar University
 </h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shaon%20Khan-blue?style=flat&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Shaon%20Khan-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:shaon.iit52@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shaon.iit52@gmail.com-red?style=flat&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-shaon.iit52@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://ecg-iit-ju-shaon.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Website-HealthBridge-orange?style=flat&logo=google-chrome"/>
+    <img src="https://img.shields.io/badge/Website-ecg--iit--ju--shaon.xyz-orange?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://codeforces.com" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Rating%201182-blue?style=flat&logo=codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-1182%20Rating-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
-<hr/>
+---
 
-## 👨‍💻 About Me
+### About Me
 
-I am a highly motivated undergraduate student at the **Institute of Information Technology (IIT), Jahangirnagar University**. My core interest lies at the intersection of **Machine Learning, IoT hardware, and full-stack software development**.
+I am a motivated undergraduate student at the Institute of Information Technology (IIT), Jahangirnagar University. My academic focus lies in Artificial Intelligence, Machine Learning, and Deep Learning, with hands-on experience building real-world AI systems integrated with hardware and cloud deployment.
 
-I actively build end-to-end projects — from hardware-level ECG signal acquisition using Arduino to cloud-deployed FastAPI backends with deep learning inference. I am also a competitive programmer with **300+ problems solved on Codeforces** and **100+ on LeetCode**.
+I actively build independent projects combining signal processing, deep learning inference, and web interfaces. I am also a competitive programmer with 300+ problems solved on Codeforces and 100+ on LeetCode.
 
-- 🔭 Currently building: **HealthBridge** — an IoT + AI clinical intelligence platform
-- 🌱 Learning: Advanced DSA, Deep Learning architectures, Signal Processing
-- 💡 Interests: ML Engineering, Biomedical AI, IoT systems, Competitive Programming
-- 📫 Reach me: **shaon.iit52@gmail.com**
+- Currently building: **HealthBridge** — IoT + AI clinical intelligence platform
+- Interests: ML Engineering, Biomedical AI, Signal Processing, Competitive Programming
+- Contact: shaon.iit52@gmail.com
 
-<hr/>
+---
 
-## 🚀 Featured Projects
+### Competitive Programming
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-300%2B%20Problems%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Rating-1182-brightgreen?style=for-the-badge"/>
+</p>
+
+---
+
+### Featured Projects
 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
-| [**🏥 HealthBridge**](https://github.com/Md-Shaon-Khan/ECG) | Full-stack clinical intelligence platform. Real-time ECG acquisition via Arduino + AD8232 at 360 Hz. 8-class arrhythmia classification using ResNet1D. AI disease prediction, patient-doctor dashboard, and LLaMA 3.3 medical chatbot. Live at [ecg-iit-ju-shaon.xyz](https://ecg-iit-ju-shaon.xyz) | `FastAPI` `TensorFlow` `MongoDB` `Arduino` `AD8232` |
-| [**🏠 IoT Health Monitoring**](https://github.com/Md-Shaon-Khan/IoT-Health-Monitoring-and-Disease-Prediction-with-ML-Drug-Treatment-Recommendations) | IoT sensor-based real-time body data collection with ML-based disease prediction and drug/treatment recommendations. | `Python` `FastAPI` `MySQL` `ML/DL` `ESP8266` |
-| [**🔧 UniFix 2.0**](https://github.com/Md-Shaon-Khan/UniFix-2.0) | Full-stack university complaint management system with real-time status tracking via Socket.io, role-based dashboards, and logic-based categorization. | `React` `Node.js` `MySQL` `Socket.io` |
-| [**🔒 LockGuard**](https://github.com/Md-Shaon-Khan/LockGuard-Dual-Factor-Smart-Door-Security-with-Alerts) | Dual-factor smart door security system with real-time alerts for personal and institutional digital asset protection. | `C++` `Android` |
-| [**🎓 IIT Academic Website**](https://github.com/Md-Shaon-Khan/IIT-Academic-Website-Design) | Academic portal for IIT students — research papers, project archives, past exam papers, academic calendars, subject overviews. | `HTML/CSS` `JS` `MySQL` `FastAPI` |
-| [**📋 Student Attendance System**](https://github.com/Md-Shaon-Khan/Student_Attendance_System) | Digital solution for tracking and managing student attendance records efficiently. | `Java` |
+| [**HealthBridge**](https://github.com/Md-Shaon-Khan/ECG) | Full-stack clinical intelligence platform. Real-time ECG acquisition via Arduino UNO + AD8232 at 360 Hz. 8-class arrhythmia classification using ResNet1D. AI disease prediction, patient-doctor dashboard, LLaMA 3.3 medical chatbot. Live at [ecg-iit-ju-shaon.xyz](https://ecg-iit-ju-shaon.xyz) | `FastAPI` `TensorFlow` `MongoDB` `Arduino` |
+| [**UniFix**](https://github.com/Md-Shaon-Khan/UniFix-2.0) | University complaint management system with real-time status tracking via Socket.io, role-based dashboards, and logic-based categorization algorithms. | `React` `Node.js` `MySQL` `Socket.io` |
+| [**LockGuard**](https://github.com/Md-Shaon-Khan/LockGuard-Dual-Factor-Smart-Door-Security-with-Alerts) | Dual-factor smart door security system with real-time alerts for personal and institutional asset protection. | `C++` `Android` |
+| [**IIT Academic Website**](https://github.com/Md-Shaon-Khan/IIT-Academic-Website-Design) | Academic portal for IIT students providing access to research papers, project archives, past exam papers, and academic calendars. | `HTML/CSS` `JavaScript` `FastAPI` |
+| [**Student Attendance System**](https://github.com/Md-Shaon-Khan/Student_Attendance_System) | Digital solution for tracking and managing student attendance records. | `Java` |
 
-<hr/>
+---
 
-## 🏆 Competitive Programming
+### Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Codeforces-300%2B%20Problems-blue?style=for-the-badge&logo=codeforces"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Rating-1182-green?style=for-the-badge"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br/>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><br/>C</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br/>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/>HTML5</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br/>CSS3</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript</td>
+  </tr>
+</table>
 
-<hr/>
+### AI / ML / DL Libraries
 
-## 🛠️ Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br/>TensorFlow</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/><br/>Keras</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><br/>NumPy</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</td>
+    <td align="center"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/><br/>Scikit-learn</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br/>Matplotlib</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="40" height="40"/><br/>SciPy</td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+### Tools & Environments
 
-## 📦 Libraries & Frameworks
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/><br/>FastAPI</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/><br/>Jupyter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/>GitHub</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br/>VS Code</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/><br/>Arduino</td>
+    <td align="center"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40"/><br/>Streamlit</td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-</p>
+---
 
-## ⚙️ Tools & Environments
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-</p>
-
-<hr/>
-
-## 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Shaon-Khan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Shaon-Khan&theme=tokyonight&hide_border=true"/>
 </p>
 
-<hr/>
+---
 
-## 🎯 Learning Goals
+### Learning Goals
 
 - Master advanced Data Structures and Algorithms for competitive programming
-- Build production-grade ML systems with real-world biomedical data
-- Explore Transformer-based architectures for time-series and ECG classification
-- Contribute to open-source ML and IoT projects
-- Publish research in biomedical AI (JaundiceScan — upcoming project)
+- Build production-grade ML and DL systems with real-world biomedical data
+- Explore Transformer-based architectures for ECG and time-series classification
+- Contribute to open-source AI and signal processing projects
+- Publish research in biomedical AI — JaundiceScan (upcoming project)
 
-<hr/>
+---
 
-## 🤝 Connect with Me
+### Connect
 
 <p align="center">
   <a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:shaon.iit52@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/fluency/48/000000/email.png" width="38" height="38"/>
+  </a>&nbsp;&nbsp;
   <a href="https://ecg-iit-ju-shaon.xyz" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="38" height="38"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Shaon-Khan&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Md-Shaon-Khan&color=0077B5&style=flat&label=Profile+Views"/>
 </p>
