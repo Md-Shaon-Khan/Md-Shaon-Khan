@@ -109,13 +109,13 @@ I actively build independent projects combining signal processing, deep learning
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Shaon-Khan&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Md-Shaon-Khan&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
@@ -130,23 +130,33 @@ I actively build independent projects combining signal processing, deep learning
 
 ---
 
-### Connect
+### Contact
 
-<p align="center">
-  <a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="38" height="38"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="38" height="38"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:shaon.iit52@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/email.png" width="38" height="38"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://ecg-iit-ju-shaon.xyz" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="38" height="38"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Shaon-Khan&color=0077B5&style=flat&label=Profile+Views"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.facebook.com/sa.ona.khana.803112" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="40" height="40"/><br/>
+        Facebook
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40"/><br/>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:shaon.iit52@gmail.com">
+        <img src="https://img.icons8.com/fluency/48/000000/email.png" width="40" height="40"/><br/>
+        Email
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ecg-iit-ju-shaon.xyz" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40"/><br/>
+        Website
+      </a>
+    </td>
+  </tr>
+</table>
