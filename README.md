@@ -5,7 +5,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaon-khan-01003433a/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-shaon-khan-01003433a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shaon%20Khan-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
