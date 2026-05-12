@@ -4,7 +4,28 @@
   3rd Year &nbsp;·&nbsp; B.Sc. in Information Technology &nbsp;·&nbsp; Institute of Information Technology (IIT) &nbsp;·&nbsp; Jahangirnagar University
 </h4>
 
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/md-shaon-khan-01003433a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaon%20Khan-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:shaon.iit52@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shaon.iit52@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://ecg-iit-ju-shaon.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ecg--iit--ju--shaon.xyz-orange?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1182%20Rating-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+  </a>
+</p> -->
 <p align="center">
+  <a href="https://portfolio-7vvt.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6E5494?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/md-shaon-khan-01003433a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shaon%20Khan-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -21,7 +42,6 @@
     <img src="https://img.shields.io/badge/Codeforces-1182%20Rating-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ### About Me
