@@ -1,7 +1,12 @@
 <h1 align="center">Md. Shaon Khan</h1>
 <h3 align="center">Undergraduate Student | AI / ML / DL Enthusiast | Competitive Programmer</h3>
+
+<!-- REPLACE THE OLD H4 WITH THIS -->
 <h4 align="center">
-  3rd Year &nbsp;·&nbsp; B.Sc. in Information Technology &nbsp;·&nbsp; Institute of Information Technology (IIT) &nbsp;·&nbsp; Jahangirnagar University
+  3rd Year &nbsp;·&nbsp; B.Sc. in Information Technology &nbsp;·&nbsp; CGPA: 3.82/4.00 (Up to 4th Sem)
+</h4>
+<h4 align="center">
+  Institute of Information Technology (IIT) &nbsp;·&nbsp; Jahangirnagar University
 </h4>
 
 <!-- <p align="center">
@@ -42,7 +47,7 @@
     <img src="https://img.shields.io/badge/Codeforces-1182%20Rating-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
   </a>
 </p>
----
+
 
 ### About Me
 
