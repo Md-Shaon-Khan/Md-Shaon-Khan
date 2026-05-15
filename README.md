@@ -27,7 +27,7 @@
   </a>
 </p> -->
 <p align="center">
-  <a href="https://portfolio-7vvt.vercel.app/" target="_blank">
+  <a href="https://portfolio-7vvt.vercel.app/#hero" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6E5494?style=flat&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
