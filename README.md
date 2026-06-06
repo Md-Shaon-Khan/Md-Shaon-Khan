@@ -135,16 +135,14 @@ I actively build independent projects combining signal processing, deep learning
 
 ### GitHub Statistics
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Md-Shaon-Khan&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://portfolio-kq2b.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://portfolio-kq2b.vercel.app/api/top-langs/?username=Md-Shaon-Khan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Md-Shaon-Khan&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Md-Shaon-Khan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
