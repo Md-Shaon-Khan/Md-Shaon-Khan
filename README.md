@@ -134,6 +134,7 @@ I actively build independent projects combining signal processing, deep learning
 ---
 
 ### GitHub Statistics
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Md-Shaon-Khan)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Md-Shaon-Khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165"/>
