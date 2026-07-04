@@ -1,5 +1,5 @@
 <h1 align="center">Md. Shaon Khan</h1>
-<h3 align="center">Undergraduate Student | AI / ML / DL Enthusiast | Competitive Programmer</h3>
+<h3 align="center">Undergraduate Student | AI, ML Engineer | DL Enthusiast | Competitive Programmer</h3>
 
 <!-- REPLACE THE OLD H4 WITH THIS -->
 <h4 align="center">
@@ -49,16 +49,16 @@
 </p>
 
 
-### About Me
-
-I am a motivated undergraduate student at the Institute of Information Technology (IIT), Jahangirnagar University. My academic focus lies in Artificial Intelligence, Machine Learning, and Deep Learning, with hands-on experience building real-world AI systems integrated with hardware and cloud deployment.
-
-I actively build independent projects combining signal processing, deep learning inference, and web interfaces. I am also a competitive programmer with 300+ problems solved on Codeforces and 100+ on LeetCode.
-
-- Currently building: **HealthBridge** — IoT + AI clinical intelligence platform
-- Interests: ML Engineering, Biomedical AI, Signal Processing, Competitive Programming
-- Contact: shaon.iit52@gmail.com
-
+## About Me
+ 
+I am a 3rd-year B.Sc. in Information Technology student at the Institute of Information Technology (IIT), Jahangirnagar University (52nd Batch), maintaining a CGPA of 3.82 through my 4th semester. My work sits at the intersection of machine learning, deep learning, and biomedical signal processing — I like building systems that go beyond notebooks and into deployed, end-to-end products.
+ 
+My flagship project, **HealthBridge**, is a full-stack clinical intelligence platform combining IoT-based ECG acquisition with a deep learning ensemble for cardiac classification, currently live at ecg-iit-ju-shaon.xyz. I've also built a deep learning ensemble for paddy disease detection trained on ~49,000 images, and I placed as a Top 100 Finalist at the Infinity AI BuildFest 2026 hackathon at BRAC University.
+ 
+I'm an active competitive programmer (300+ problems on Codeforces, 100+ on LeetCode) and I'm currently deepening my ML/AI foundations through Phitron's AI/ML Engineering course. I'm looking for opportunities — particularly internships — where I can apply and grow these skills in a real engineering team.
+ 
+- Institute of Information Technology (IIT), Jahangirnagar University, Savar, Dhaka, Bangladesh
+- LinkedIn: [md-shaon-khan](https://www.linkedin.com/in/md-shaon-khan-01003433a/)
 ---
 
 ### Competitive Programming
@@ -73,16 +73,26 @@ I actively build independent projects combining signal processing, deep learning
 
 ---
 
-### Featured Projects
-
+## Featured Projects
+ 
 | Project | Description | Tech Stack |
-|:---|:---|:---|
-| [**HealthBridge**](https://github.com/Md-Shaon-Khan/ECG) | Full-stack clinical intelligence platform. Real-time ECG acquisition via Arduino UNO + AD8232 at 360 Hz. 8-class arrhythmia classification using ResNet1D. AI disease prediction, patient-doctor dashboard, LLaMA 3.3 medical chatbot. Live at [ecg-iit-ju-shaon.xyz](https://ecg-iit-ju-shaon.xyz) | `FastAPI` `TensorFlow` `MongoDB` `Arduino` |
-| [**UniFix**](https://github.com/Md-Shaon-Khan/UniFix-2.0) | University complaint management system with real-time status tracking via Socket.io, role-based dashboards, and logic-based categorization algorithms. | `React` `Node.js` `MySQL` `Socket.io` |
-| [**LockGuard**](https://github.com/Md-Shaon-Khan/LockGuard-Dual-Factor-Smart-Door-Security-with-Alerts) | Dual-factor smart door security system with real-time alerts for personal and institutional asset protection. | `C++` `Android` |
-| [**IIT Academic Website**](https://github.com/Md-Shaon-Khan/IIT-Academic-Website-Design) | Academic portal for IIT students providing access to research papers, project archives, past exam papers, and academic calendars. | `HTML/CSS` `JavaScript` `FastAPI` |
-| [**Student Attendance System**](https://github.com/Md-Shaon-Khan/Student_Attendance_System) | Digital solution for tracking and managing student attendance records. | `Java` |
+|---|---|---|
+| [**HealthBridge**](https://github.com/Md-Shaon-Khan/HealthBridge-with-ECG-Check-Up) | Full-stack clinical intelligence platform with IoT-based ECG acquisition (Arduino UNO + AD8232 at 360 Hz), a deep learning ensemble (ResNet1D, InceptionTime, DenseNet121) for 8-class cardiac classification, disease prediction, a patient-doctor dashboard, and an integrated medical chatbot. Deployed at ecg-iit-ju-shaon.xyz | `Python` `TensorFlow` `FastAPI` `Arduino` `IoT` |
+| [**Farmer's Friend (কৃষক বন্ধু)**](https://github.com/Md-Shaon-Khan/Farmer-s-Friend) | Paddy disease classifier using a deep learning ensemble (EfficientNetB0, ResNet50, DenseNet121) trained on ~49,000 images from 6 datasets, detecting 5 rice leaf conditions with ~97% validation accuracy, plus a binary gatekeeper model to reject non-paddy inputs | `Python` `TensorFlow` `FastAPI` `Computer Vision` |
+| [**UniFix**](https://github.com/Md-Shaon-Khan/UniFix) | Full-stack university complaint management system with real-time status tracking via Socket.io, role-based dashboards, and logic-based issue categorization | `Java` `Node.js` `MySQL(PHPMyAdmin)` `JDBC` |
+| [**IIT Academic Website with Backend**](https://github.com/Md-Shaon-Khan/IIT-Academic-Website-with-Backend) | Batch-wise academic portal for IIT, Jahangirnagar University, allowing admins to upload technical projects with GitHub links, supervisors, and other metadata | `FastAPI` `MySQL` `HTML/CSS/JS` |
+| [**LockGuard**](https://github.com/Md-Shaon-Khan/LockGuard-Dual-Factor-Smart-Door-Security-with-Alerts) | Dual-factor smart door security system with real-time alerting | `C++` `Android` |
+| [**Student Attendance System**](https://github.com/Md-Shaon-Khan/Student_Attendance_System) | Digital attendance management platform with database-backed eligibility tracking for exams | `Java` `MySQL` |
+ 
+---
 
+## Areas of Work
+ 
+- **Machine Learning & Deep Learning:** classification, ensembling, EDA, feature engineering, model evaluation
+- **Biomedical AI & Signal Processing:** ECG signal cleaning and classification pipelines
+- **Full-Stack Development:** FastAPI, Node.js/Express, React, MySQL/PostgreSQL
+- **IoT:** Arduino and ESP8266-based sensor data acquisition
+- **Competitive Programming:** Codeforces and LeetCode
 ---
 
 ### Languages
@@ -131,6 +141,23 @@ I actively build independent projects combining signal processing, deep learning
   </tr>
 </table>
 
+---
+
+## Learning & Practice Repositories
+ 
+| Repository | Focus |
+|---|---|
+| [Phitron-AL-ML-Learning](https://github.com/Md-Shaon-Khan/Phitron-AL-ML-Learning) | Phitron AI/ML course: Python, NumPy, Pandas, Matplotlib, Seaborn, and core ML algorithms |
+| [Machine-Learning](https://github.com/Md-Shaon-Khan/Machine-Learning) | Foundational ML resources, code examples, and notebooks |
+| [Machine-Learning-Deep-Learning](https://github.com/Md-Shaon-Khan/Machine-Learning-Deep-Learning) | Combined ML/DL practice and notes |
+| [Deep-Learning-Projects](https://github.com/Md-Shaon-Khan/Deep-Learning-Projects) | Basic to intermediate deep learning projects |
+| [Data-Structures-Algorithm-and-Analysis](https://github.com/Md-Shaon-Khan/Data-Structures-Algorithm-and-Analysis) | DSA coursework and problem-solving |
+| [CodeForces_Problem](https://github.com/Md-Shaon-Khan/CodeForces_Problem) / [LeetCode](https://github.com/Md-Shaon-Khan/LeetCode) | Competitive programming solutions |
+| [NumPy-Library](https://github.com/Md-Shaon-Khan/NumPy-Library) / [Pandas-Library](https://github.com/Md-Shaon-Khan/Pandas-Library) / [Matplotlib-Library](https://github.com/Md-Shaon-Khan/Matplotlib-Library) / [SciPy-Library](https://github.com/Md-Shaon-Khan/SciPy-Library) | Individual library deep-dives |
+| [Database-Management-System-MySQL](https://github.com/Md-Shaon-Khan/Database-Management-System-MySQL-) | Database coursework |
+| [Digital-Logic-Design](https://github.com/Md-Shaon-Khan/Digital-Logic-Design) | Digital logic coursework |
+| [Numerical-Analysis](https://github.com/Md-Shaon-Khan/Numerical-Analysis) / [Statistics](https://github.com/Md-Shaon-Khan/Statistics) | Applied mathematics for ML |
+ 
 ---
 
 ### GitHub Statistics
