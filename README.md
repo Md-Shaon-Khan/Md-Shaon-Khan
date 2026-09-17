@@ -125,6 +125,23 @@ I'm an active competitive programmer (300+ problems on Codeforces, 100+ on LeetC
   </tr>
 </table>
 
+### LLM / GenAI
+
+<table> 
+  <tr> 
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40"/><br/>LangChain
+    </td> 
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40"/><br/>Hugging Face
+    </td> 
+    <td align="center">
+      <img src="https://api.iconify.design/lucide:database-search.svg?color=%233b82f6" width="40" height="40"/><br/>RAG
+    </td> 
+  </tr> 
+</table>
+
+
 ### Tools & Environments
 
 <table>
