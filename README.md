@@ -90,7 +90,7 @@ I'm an active competitive programmer (300+ problems on Codeforces, 100+ on LeetC
  
 - **Machine Learning & Deep Learning:** classification, ensembling, EDA, feature engineering, model evaluation
 - **Biomedical AI & Signal Processing:** ECG signal cleaning and classification pipelines
-- **Full-Stack Development:** FastAPI, Node.js/Express, React, MySQL/PostgreSQL
+- **Full-Stack Development:** FastAPI, Node.js, Django, MySQL/PostgreSQL
 - **IoT:** Arduino and ESP8266-based sensor data acquisition
 - **Competitive Programming:** Codeforces and LeetCode
 ---
@@ -122,6 +122,7 @@ I'm an active competitive programmer (300+ problems on Codeforces, 100+ on LeetC
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br/>Matplotlib</td>
     <td align="center"><img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="40" height="40"/><br/>SciPy</td>
     <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/><br/>Seaborn</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40"/><br/>MLflow</td>
   </tr>
 </table>
 
@@ -135,9 +136,9 @@ I'm an active competitive programmer (300+ problems on Codeforces, 100+ on LeetC
     <td align="center">
       <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40"/><br/>Hugging Face
     </td> 
-    <td align="center">
-      <img src="https://api.iconify.design/lucide:database-search.svg?color=%233b82f6" width="40" height="40"/><br/>RAG
-    </td> 
+<td align="center">
+  <img src="https://ui-avatars.com/api/?name=RAG&length=3&background=1d4ed8&color=fff&rounded=true&bold=true&size=80" width="40" height="40"/><br/>RAG
+</td>
   </tr> 
 </table>
 
@@ -146,6 +147,7 @@ I'm an active competitive programmer (300+ problems on Codeforces, 100+ on LeetC
 
 <table>
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><br/>Django</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/><br/>FastAPI</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/><br/>Jupyter</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/>MongoDB</td>
@@ -153,7 +155,6 @@ I'm an active competitive programmer (300+ problems on Codeforces, 100+ on LeetC
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br/>PostgreSQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/>Git</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/>GitHub</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br/>VS Code</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/><br/>Arduino</td>
     <td align="center"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40"/><br/>Streamlit</td>
   </tr>
