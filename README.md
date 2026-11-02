@@ -28,25 +28,30 @@
 </p> -->
 <p align="center">
   <a href="https://md-shaon-khan-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6E5494?style=flat&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6E5494?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://md-shaon-khan-s-journal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Blog-Visit%20Site-007ACC?style=flat&logo=vercel&logoColor=white" alt="Personal Blog"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/md-shaon-khan-01003433a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shaon%20Khan-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Shaon%20Khan-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:shaon.iit52@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shaon.iit52@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-shaon.iit52%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://ecg-iit-ju-shaon.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ecg--iit--ju--shaon.xyz-orange?style=flat&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-ecg--iit--ju--shaon.xyz-orange?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   &nbsp;
   <a href="https://codeforces.com" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1182%20Rating-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-1182%20Rating-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
+
 
 
 ## About Me
