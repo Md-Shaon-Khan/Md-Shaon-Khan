@@ -3,7 +3,7 @@
 
 <!-- REPLACE THE OLD H4 WITH THIS -->
 <h4 align="center">
-  3rd Year &nbsp;·&nbsp; B.Sc. in Information Technology &nbsp;·&nbsp; CGPA: 3.82/4.00 (Up to 4th Sem)
+  3rd Year &nbsp;·&nbsp; B.Sc. in Information Technology &nbsp;·&nbsp; CGPA: 3.81/4.00 (Up to 5th Sem)
 </h4>
 <h4 align="center">
   Institute of Information Technology (IIT) &nbsp;·&nbsp; Jahangirnagar University
@@ -56,7 +56,7 @@
 
 ## About Me
  
-I am a 3rd-year B.Sc. in Information Technology student at the Institute of Information Technology (IIT), Jahangirnagar University (52nd Batch), maintaining a CGPA of 3.82 through my 4th semester. My work sits at the intersection of machine learning, deep learning, and biomedical signal processing — I like building systems that go beyond notebooks and into deployed, end-to-end products.
+I am a 3rd-year B.Sc. in Information Technology student at the Institute of Information Technology (IIT), Jahangirnagar University (52nd Batch), maintaining a CGPA of 3.81 through my 5th semester. My work sits at the intersection of machine learning, deep learning, and biomedical signal processing — I like building systems that go beyond notebooks and into deployed, end-to-end products.
  
 My flagship project, **HealthBridge**, is a full-stack clinical intelligence platform combining IoT-based ECG acquisition with a deep learning ensemble for cardiac classification, currently live at ecg-iit-ju-shaon.xyz. I've also built a deep learning ensemble for paddy disease detection trained on ~49,000 images, and I placed as a Top 100 Finalist at the Infinity AI BuildFest 2026 hackathon at BRAC University.
  
